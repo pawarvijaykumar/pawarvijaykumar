@@ -1,73 +1,57 @@
-<h1 align="center">Hi 👋, I'm Vijay Kumar Pawar</h1>
-<h3 align="center">Backend Developer | Electronics & Computer Engineering Student | India 🇮🇳</h3>
+# Hi 👋, I'm Vijay Kumar Pawar
 
----
+## 🚀 About Me
 
-## 👨‍💻 About Me
+🎓 2nd Year Electronics & Computer Engineering Student
 
-🎓 I'm a 2nd Year Electronics & Computer Engineering student.
+💻 Passionate about Backend Development, REST APIs, and Data Structures & Algorithms.
 
-💻 Passionate about Backend Development and Software Engineering.
+🌱 Currently Learning
 
-🌱 Currently learning Node.js, Express.js, MongoDB, Mongoose, JWT Authentication, and Data Structures & Algorithms using C++.
-
-🚀 I love building real-world projects and continuously improving my programming skills.
-
-🎯 Goal: Become a Backend Developer and Software Engineer.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- C
-- C++
-- Python
-- JavaScript
-
-### 🌐 Frontend
-- HTML5
-- CSS3
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-
-### 🗄️ Database
-- MongoDB
-- Mongoose
-
-### 🛠️ Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
-
-## 📚 Currently Learning
-
-- Backend Development
+- Backend Development with Node.js & Express.js
+- MongoDB & Mongoose
 - REST API Development
 - JWT Authentication
-- MongoDB & Mongoose
 - Data Structures & Algorithms (C++)
 
----
 
-## 🚀 Projects
+## 💻 Tech Stack
 
-- 📌 Instagram Clone Backend *(In Progress)*
-- 📌 Student Management System *(Coming Soon)*
-- 📌 Authentication API using JWT *(Coming Soon)*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,express,mongodb,git,github,vscode,postman,npm" />
+</p>
 
----
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawarvijaykumar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+ ## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pawarvijaykumar&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarvijaykumar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🚀 Featured Projects
+
+- 📌 [Instagram Clone Backend](https://github.com/pawarvijaykumar/instagram-backend)
+- 📌 [Student Management System API](https://github.com/pawarvijaykumar/student-management-api)
+- 📌 [Authentication API using JWT](https://github.com/pawarvijaykumar/auth-api)
+  
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/pawarvijaykumar
-- Email: pawarvijaykumar821@gmail.com
+- 📧 Email: pawarvijaykumar821@gmail.com
 
----
+- 💻 GitHub: https://github.com/pawarvijaykumar
 
-⭐ **Thanks for visiting my profile!**
+ 📍 India
+ 
+⚡ Fun Fact:
+I enjoy building real-world projects and learning new technologies every day.
