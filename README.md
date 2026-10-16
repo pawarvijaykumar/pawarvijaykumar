@@ -15,40 +15,64 @@ My current focus is on full-stack development with React and Node.js, while stre
 ---
 
 ## 🛠️ Technologies I've Learned
-
-### Programming Languages & Web Fundamentals
+### 💻 Programming Languages & Web Fundamentals
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" alt="C, C++, Python, HTML, CSS, JavaScript" />
 </p>
 
-### Development Tools
+### 🧰 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Git, GitHub, VS Code, Postman, npm" />
 </p>
 
-## 🌱 Currently Learning
+### ⚙️ Backend & Database Technologies I've Worked With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" alt="React, Vite, Node.js, Express, MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
+</p>
+## 🧰 Tools I've Worked With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm" alt="VS Code, Git, GitHub, Postman and npm" />
 </p>
 
-- ⚛️ **React.js and Vite** — building interactive user interfaces
-- 🟢 **Node.js and Express.js** — developing backend applications and APIs
-- 🍃 **MongoDB and Mongoose** — storing and managing application data
-- 🔐 **JWT Authentication** — implementing authentication and protected routes
-- 🔗 **REST APIs** — connecting frontend applications with backend services
-- 🧩 **Data Structures and Algorithms in C++** — improving logical thinking and problem-solving
-- 🔄 **MERN Stack Development** — integrating frontend, backend, and databases
+- 💻 **VS Code** — writing and debugging code
+- ⚡ **Thunder Client** — testing REST APIs directly inside VS Code
+- 🚀 **Postman** — sending API requests and checking responses
+- 🌿 **Git & GitHub** — version control and managing code repositories
+- 📦 **npm** — installing and managing Node.js packages
+- 🗄️ **MongoDB Atlas** — managing a cloud-hosted MongoDB database
+- 🔐 **dotenv** — managing environment variables
+- ☁️ **Cloudinary / ImageKit** — working with cloud-based image uploads
+- 🧪 **Nodemon** — automatically restarting the Node.js server during development
 
----
+### ⚛️ Frontend Development
 
-## 🚀 Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite" alt="React and Vite" />
+</p>
 
-### 1. Smart Link Management Platform — In Progress
+- React components and JSX
+- React + Vite project setup
+- Connecting frontend applications to backend APIs
+- Building login pages and dashboard interfaces
 
-Developing a platform to manage links and track their performance through click history and analytics.
+### 🧠 Problem Solving
+
+- Data Structures and Algorithms using C++
+- Arrays, recursion, searching, sorting, and linked lists
+- Practicing coding problems and improving logical thinking
+
+
+## 🚀 Smart Link Management Platform
+
+![Smart Link Management Platform](<img width="1672" height="941" alt="Smart Link Management Dashboard" src="https://github.com/user-attachments/assets/7df7b8a2-f3cc-40f9-a80b-6aef06bd63bf" />
+)
+
+A full-stack platform for link management, click tracking, and analytics.
+
 
 **Technologies:** React, Node.js, Express.js, MongoDB
 
