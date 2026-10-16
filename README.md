@@ -139,13 +139,18 @@ A backend project focused on authentication, JWT tokens, and protected routes.
 
 
 
-## 📈 GitHub Contribution Graph
 
-![Vijay's GitHub Contributions](https://ghchart.rshah.org/pawarvijaykumar)
+
+
+## 📊 GitHub Contribution Graph
+
+![Vijay's GitHub Contributions](https://contribkit.app/user/pawarvijaykumar.svg?palette=github&shape=square&background=%230d1117)
 
 ## 🐍 GitHub Contribution Snake
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/pawarvijaykumar/pawarvijaykumar/output/github-snake.svg)
+
+
 
 
 ## 🎯 Goals
