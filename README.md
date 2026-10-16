@@ -68,7 +68,7 @@ My current focus is on full-stack development with React and Node.js, while stre
 
 ## 🚀 Smart Link Management Platform
 
-![Smart Link Management Platform](<img width="1672" height="941" alt="Smart Link Management Dashboard" src="https://github.com/user-attachments/assets/7df7b8a2-f3cc-40f9-a80b-6aef06bd63bf" />
+![Smart Link Management dashboard](https://github.com/user-attachments/assets/7df7b8a2-f3cc-40f9-a80b-6aef06bd63bf 
 )
 
 A full-stack platform for link management, click tracking, and analytics.
@@ -82,37 +82,66 @@ A full-stack platform for link management, click tracking, and analytics.
 
 ### 2. Instagram Clone Backend
 
-A backend development project focused on building APIs and learning user management, authentication, and database integration.
+![Instagram Clone Backend](https://github.com/user-attachments/assets/32ac7c64-f9e0-477e-a9a2-0b3dd1821eaf
+)
 
-**Technologies:** Node.js, Express.js, MongoDB
+A backend project focused on social media functionality, REST APIs, and user management.
 
-[Explore my repositories](https://github.com/pawarvijaykumar?tab=repositories)
-
-### 3. Backend API Development
-
-Working on backend concepts including REST APIs, request handling, database operations, and authentication.
-
-**Technologies:** JavaScript, Node.js, Express.js, MongoDB
-
-[Explore my repositories](https://github.com/pawarvijaykumar?tab=repositories)
+**Tech Stack:** Node.js, Express.js, MongoDB
 
 ---
+
+### 3. Student Management System API
+
+![Student Management System API](https://github.com/user-attachments/assets/d7bd7ddc-e664-4085-bc34-5363b7e3feba
+)
+
+A backend project focused on student record management and API development.
+
+**Tech Stack:** Node.js, Express.js, MongoDB
+
+---
+
+### 4. JWT Authentication API
+
+![JWT Authentication API](https://github.com/user-attachments/assets/ec4fd16c-7aa8-4918-b9ba-14facb8985de
+)
+
+A backend project focused on authentication, JWT tokens, and protected routes.
+
+**Tech Stack:** Node.js, Express.js, JWT, MongoDB
+
+---
+### Appwrite
+
+![Appwrite Backend Services](https://github.com/user-attachments/assets/861a0e17-1099-4c80-b8d6-831a52887148
+)
+
+ **Appwrite** — authentication and backend services
+- **JWT** — token-based authentication
+- **bcrypt** — password hashing
+- **dotenv** — environment variable management
+
+[Explore all my repositories](https://github.com/pawarvijaykumar?tab=repositories)
+
+
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pawarvijaykumar&show_icons=true&hide_border=true" alt="GitHub statistics" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawarvijaykumar&show_icons=true&theme=github_dark&hide_border=false)
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=pawarvijaykumar&hide_border=true" alt="GitHub contribution streak" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawarvijaykumar&layout=compact&theme=github_dark&hide_border=false)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarvijaykumar&layout=compact&hide_border=true" alt="Most-used programming languages" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=pawarvijaykumar&theme=github-dark-blue&hide_border=false)
 
----
+
+
+
+
+## 📈 GitHub Contribution Graph
+
+[View my GitHub contribution graph](https://github.com/pawarvijaykumar)
+
 
 ## 🎯 Goals
 
